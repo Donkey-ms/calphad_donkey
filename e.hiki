@@ -1,7 +1,7 @@
 !title:Cluster ordering of Mg-LPSO
 !author:Shinya Morishita and Shigeto R. Nishitani
 
-Two possible scinarios, solute ordering and stacking fault induced, have been discucced for the formation mechanisms of the long period stacking ordered (LPSO) structure in Mg based alloys.  Very recently, the authors have reported the solute ordering of mini clusters[1].  In this talk, we will show the first principles calculations of the interaction energy between a $L1_2$ cluster and a mini cluster, and discusses the diffusion mechanism of this mini cluster.
+Two possible scenarios, solute ordering and stacking fault induced, have been discucced for the formation mechanisms of the long period stacking ordered (LPSO) structure in Mg based alloys.  Very recently, the authors have reported the solute ordering of mini clusters[1].  In this talk, we will show the first principles calculations of the interaction energy between a $L1_2$ cluster and a mini cluster, and discusses the diffusion mechanism of this mini cluster.
 
 !!!caption:Schematic drawings of slab models.
 {{attach_view(calphad_donkey.001.jpeg,calphad_donkey)}}
