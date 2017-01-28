@@ -29,8 +29,9 @@ Small_ClusterがL12_Clusterと垂直方向でどのような距離をとった�
 
 Small_ClusterとL12_Cluster間の距離によって上記のエネルギー傾向に違いが出るのかを確かめるために，久保らがまとめたL12_Clusterの近接距離の図を参考にそれぞれの近接距離にSmall_Clusterの頂点を配置したモデルについて計算をおこなった．この計算でSmall_Clusterを平行方向にずらしても同様のエネルギー傾向を示すことがわかった．
 
+!!!caption:層内の配置の候補
 {{attach_view(distance_from_cluster.png)}}
-
+!!!caption:Vertical distance between $L1_2$ and mini clusters.
 {{attach_view(small_cluster_Alld.png)}}
 
 以上の計算結果から，我々は積層欠陥部にL12_Clusterが形成され，そこから排斥されたZn, Y が中距離でsmall_clusterとして安定し，濃化して新たな積層欠陥を誘発する」という仮説を立てている．

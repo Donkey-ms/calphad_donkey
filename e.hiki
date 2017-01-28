@@ -1,17 +1,19 @@
-!title:Cluster formation mechanism of Mg-LPSO
+!title:Cluster ordering of Mg-LPSO
 !author:Shinya Morishita and Shigeto R. Nishitani
 
-!Introduction
-The authors have proposed a solution ordering base mechanism of the long period stacking ordered(LPSO) structure in Mg based alloys.  The first principles calculations have shown no evidence of the solute ordering, with single isolated atoms Zn and Y or pair solute atoms of Zn-Y. 
+Two possible scenarios, solute ordering and stacking fault induced, have been discucced for the formation mechanisms of the long period stacking ordered (LPSO) structure in Mg based alloys.  Very recently, the authors have reported the solute ordering of mini clusters[1].  In this talk, we will show the first principles calculations of the interaction energy between a $L1_2$ cluster and a mini cluster, and discusses the diffusion mechanism of this mini cluster.
 
-Very recently, we have found the solute ordering of small clusters.  In this talk, we will report the first principles calculations of the interaction energy between $L1_2$ cluster and a small cluster, and discusses the diffusion mechanism of this small cluster.
+!!!caption:Schematic drawings of slab models.
+{{attach_view(calphad_donkey.001.jpeg,calphad_donkey)}}
 
-!Method
-The targe small cluster was reported by Kiyohara et al., where the horizontally splitted $L1_2$ cluster shows relatively stable energy in the hcp lattice.  The distance dependency of interaction energy between $L1_2$ cluster and a small cluster with 7 solute atoms are calculated by Vienna ab initio calculation program (VASP).  The calculation models are shown in Fig.1, where the left and right hand pannels shows the side and top views of the slab model respectively.  The marks in the top view indicate the equivalent site of the location of a small cluster in a- and c- layers of hcp stacking.  
+The target mini cluster was reported by Kiyohara et al.[2], where the horizontally split $L1_2$ cluster shows relatively stable energy in the hcp lattice.  The distance dependency of interaction energy between $L1_2$ cluster and a mini cluster are calculated by VASP.  The calculated models are shown in Fig.1. The marks in the top view indicate the equivalent site of the location of a mini cluster in a- and c- layers of hcp stacking.  
 
-!Results
-Fig.2 shows the total energy changes on the inter distance between $L1_2$ cluster and a small cluster.  Near $L1_2$ cluster, small cluster shows a monotonous drop in the energy, but shows minima at 4-5 layers, and then raises about 0.2eV reached to flat.  This behavior has never observed in the isolated solute or paired solutes, where they shows monotonous decrease.  The energy minima means the solute ordering is a strong candidate to control the formation of query nad complex LPSO strucuture.
+!!!caption:Energy dependency on vertical distance between $L1_2$ and mini clusters.
+{{attach_view(calphad_donkey.002.jpeg,calphad_donkey)}}
 
-If we accept the energetic stability of solute ordering by a small cluster, we have to consider the kinetics of the solute movement.  For the diffusion mechanism of solute transfer, two possibility have to been checked, an isolated solute diffusion or a cluster diffusion.  Although the cluster diffusion is hardly observed except on surface in condensed materials, the mini cluster stability indicate the possibility of query phenomena occurred in Mg based system.  We calculated the stability of the vacancy or vacancies around the mini cluster.  
+Fig.2 shows the total energy changes depending on the vertical distance between $L1_2$ cluster and a mini cluster.  A mini cluster shows a minimum around 4-5 layers, which is abount 0.1eV lower than the far end.  This energy minimum indicates that the solute ordering is a strong candidate to induce the formation of the LPSO structure.
 
-!references
+If we accept the energetic stability of solute ordering by a mini cluster, we have to discuss the kinetics of the solute movement. For two possibilities of an isolated solute diffusion or a cluster diffusion, we are calculating the stability of the vacancy and multi-vacancies around the mini cluster.  
+
+# S Morishita, M Kiyohara, Y Sakamoto, and S. R. Nishitani, LPSO2016, (Kyoto, 2016).
+# M. Kiyohara, Y. Sakamoto, T. Yoshioka, S. Morishita, and S. R. Nishitani: proceedings of PRICM, (Kyoto 2016).
